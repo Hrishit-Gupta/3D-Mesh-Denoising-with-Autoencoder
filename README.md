@@ -1,7 +1,7 @@
 # 3D Mesh Denoising with Autoencoder
 
 ## Overview
-This project implements a **deep learning-based 3D mesh denoising** method using a **Denoising Autoencoder (DAE)**. The model is trained on synthetic noisy 3D meshes and learns to remove noise from the vertices.
+This project presents a deep learning-based 3D mesh denoising approach using a Denoising Autoencoder (DAE). The model is trained on synthetically generated noisy 3D meshes, learning to restore clean vertex positions by effectively removing noise. This technique enhances the quality of 3D models and can be applied to real-world datasets for mesh denoising tasks.
 
 ## Features
 - Generates a synthetic noisy 3D **cube** for training.
